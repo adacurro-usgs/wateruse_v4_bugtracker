@@ -11,7 +11,7 @@ To report a bug,  go to Issues and select Label and follow the criterias below.
 **BUG DESCRIPTION**
 1. Must include the link where the bug occurs. (i.e https://wise.er.usgs.gov/wateruse_v4/app/wells/maincenter) 
 2. Short description of the Bug 
-3  Must provide the browser (including name and version), the device used and/or it's operating system's version. (i.e Safari, iPhone 6,iOs 9)
+3.  Must provide the browser (including name and version), the device used and/or it's operating system's version. (i.e Safari, iPhone 6,iOs 9)
 4. Screenshot of the problem. Must upload here or us an external link such as imgur.com **(optional)**
 
 
